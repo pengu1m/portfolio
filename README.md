@@ -7,7 +7,7 @@
 
 ## Deployment URL
 
-- 🔗 Link: [Vercel deployment URL](#)
+- 🔗 Link: [Vercel deployment URL](https://pengu1m.vercel.app/)
 
 ## Summary
 
