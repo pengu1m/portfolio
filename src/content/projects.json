@@ -1,0 +1,30 @@
+{
+    "projects": [
+        {
+            "thumbnails": [
+                {
+                    "src": "https://pengu1m.github.io/files/thumbnails/portfolio/front.png",
+                    "alt": "portfolio project frontview"
+                },
+                {
+                    "src": "https://pengu1m.github.io/files/thumbnails/portfolio/front.png",
+                    "alt": "portfolio project frontview"
+                }
+            ],
+            "title": "Portfolio",
+            "description": "나를 보여주기위한 포트폴리오 사이트",
+            "features": [
+                "개발 스킬 & 프로젝트",
+                "Github & 블로그 링크",
+                "연락처"
+            ],
+            "github": "https://github.com/pengu1m/portfolio",
+            "deployment": "https://pengu1m.vercel.app/",
+            "techstack": [
+                "Vite",
+                "Svelte",
+                "Bootstrap 5"
+            ]
+        }
+    ]
+}

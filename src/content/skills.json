@@ -1,0 +1,143 @@
+{
+    "skills": [
+        {
+            "title": "Frontend",
+            "img": {
+                "src": "https://images.velog.io/images/offdutybyblo/post/65c734fd-077c-4a68-8b3b-557c52428511/htmljscss.jpeg",
+                "alt": "HTML & CSS & JS image"
+            },
+            "list": [
+                {
+                    "title": "Web Standard",
+                    "items": [
+                        "HTML5",
+                        "CSS3",
+                        "ES6"
+                    ]
+                },
+                {
+                    "title": "Single Page App",
+                    "items": [
+                        "Svelte",
+                        "SvelteKit"
+                    ]
+                },
+                {
+                    "title": "Styling",
+                    "items": [
+                        "Bootstrap 5",
+                        "SCSS"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Backend",
+            "img": {
+                "src": "https://images.velog.io/images/riceintheramen/post/d222cd4a-70f4-4495-b620-300d81dad825/786d30e016fad2cb7dc2c76af86d55f6afd277dd5a8a80dd17b13332bfe0131f.png",
+                "alt": "Express.js image"
+            },
+            "list": [
+                {
+                    "title": "Express.js",
+                    "items": [
+                        "Routing",
+                        "Template Engine",
+                        "Prisma"
+                    ]
+                },
+                {
+                    "title": "Database",
+                    "items": [
+                        "Postgresql & RDBMS",
+                        "MongoDB",
+                        "Redis"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Version Control",
+            "img": {
+                "src": "https://images.velog.io/images/hdy20201004/post/e247016f-6a50-4d26-9204-15cd77b6dcb3/git_logo.png",
+                "alt": "Git image"
+            },
+            "list": [
+                {
+                    "title": "Git",
+                    "items": []
+                },
+                {
+                    "title": "Github",
+                    "items": [
+                        "Basic Github",
+                        "Github Flow"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Low levels",
+            "img": {
+                "src": "https://velog.velcdn.com/images/jakob1/post/a5be5e0e-635e-4442-a603-1e6e2a4a8fba/image.png",
+                "alt": "C language"
+            },
+            "list": [
+                {
+                    "title": "C",
+                    "items": [
+                        "Syntax",
+                        "Memory Management",
+                        "POSIX"
+                    ]
+                },
+                {
+                    "title": "Zig",
+                    "items": [
+                        "Syntax",
+                        "Memory Management"
+                    ]
+                },
+                {
+                    "title": "Vulkan",
+                    "items": [
+                        "😥 not yet...",
+                        "😥 not yet...",
+                        "😥 not yet..."
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Concurrency",
+            "img": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Official_Elixir_logo.png/800px-Official_Elixir_logo.png",
+                "alt": "Elxiri language image"
+            },
+            "list": [
+                {
+                    "title": "Concurrency Patterns",
+                    "items": [
+                        "😥 not yet...",
+                        "😥 not yet...",
+                        "😥 not yet..."
+                    ]
+                },
+                {
+                    "title": "Threading",
+                    "items": [
+                        "😥 not yet...",
+                        "😥 not yet..."
+                    ]
+                },
+                {
+                    "title": "ErlangVM",
+                    "items": [
+                        "😥 not yet...",
+                        "😥 not yet..."
+                    ]
+                }
+            ]
+        }
+    ]
+}
