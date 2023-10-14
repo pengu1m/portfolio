@@ -92,14 +92,7 @@
                     ]
                 },
                 {
-                    "title": "Zig",
-                    "items": [
-                        "Syntax",
-                        "Memory Management"
-                    ]
-                },
-                {
-                    "title": "Vulkan",
+                    "title": "Rust",
                     "items": [
                         "😥 not yet...",
                         "😥 not yet...",
