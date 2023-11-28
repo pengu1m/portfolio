@@ -26,5 +26,12 @@
                 "Bootstrap 5"
             ]
         }
+    ],
+    "miners": [
+        {
+            "name": "starter-blog-css",
+            "github": "https://github.com/pengu1m/starter-blog-css",
+            "tectstack": ["SASS"]
+        }
     ]
 }

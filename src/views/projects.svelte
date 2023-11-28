@@ -5,11 +5,12 @@
     import Card from "../components/card.svelte";
     import Slide from "../components/slide.svelte";
 
-    import { projects } from "../content/projects.json";
+    import { projects, miners } from "../content/projects.json";
     import List from "../components/list.svelte";
     import Aboutme from "./aboutme.svelte";
 
     const project_count = projects.length;
+    const miner_count = miners.length;
 </script>
 
 <div id="projects">
@@ -58,6 +59,24 @@
                     </div>
                 </Grid>
             </Card>
+        {/each}
+    </Grid>
+
+    <Heading text="📦 Miner Projects" />
+
+    <Grid hor={4} vec={Math.ceil(miner_count / 4)}>
+        {#each miners as miner}
+        <Card title={miner.name}>
+            <ul>
+                <li>
+                    <a href={miner.github}>Github Repo</a>
+                </li>
+                <li>
+                    {miner.tectstack.reduce((a, b) => `${a} ${b} `)}
+                </li>
+            </ul>
+            
+        </Card>
         {/each}
     </Grid>
 </div>
