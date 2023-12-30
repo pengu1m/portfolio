@@ -11,7 +11,7 @@
     <Heading text="🖐️ About me" />
 
     <Grid vec={2} hor={3}>
-        <span class="text-center fw-bold h4"> 빨간 모자 펭귄 </span>
+        <span class="text-center fw-bold h4"> pengu1m </span>
         <span class="text-center fw-bold h4"> 07년 생 </span>
         <span class="text-center fw-bold h4">
             <a href="https://maps.app.goo.gl/ELsLbyk6ZZoXVVfp8">남극</a> 출신
