@@ -34,17 +34,17 @@
         {
             "title": "Backend",
             "img": {
-                "src": "https://cdn.jsdelivr.net/gh/pengu1m/cdn@main/static/portfolio/skills/django.png",
-                "alt": "Django image"
+                "src": "https://images.velog.io/images/deannn/post/d2a40b7c-eed3-4282-ab5a-8106618f83ba/Node.js.png",
+                "alt": "Node.js image"
             },
             "list": [
                 {
-                    "title": "Django",
+                    "title": "Node.js",
                     "items": [
+                        "Express.js",
                         "MVT",
                         "ORM",
-                        "Testing",
-                        "JWT"
+                        "JWT & Session"
                     ]
                 },
                 {
@@ -92,7 +92,7 @@
                     ]
                 },
                 {
-                    "title": "Rust",
+                    "title": "Zig",
                     "items": [
                         "😥 not yet...",
                         "😥 not yet...",
